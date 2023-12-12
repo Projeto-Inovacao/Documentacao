@@ -1,4 +1,4 @@
-# Documentação Noc Line.
+# Documentação Noc Line
 
 ## Sobre:
 
